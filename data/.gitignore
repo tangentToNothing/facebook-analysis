@@ -1,0 +1,12 @@
+.zip
+*.zip
+html
+html/
+messages
+messages/
+photos
+photos/
+videos
+videos/
+.htm
+*.htm
